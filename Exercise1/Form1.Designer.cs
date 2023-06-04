@@ -161,11 +161,11 @@ namespace Exercise1
             // lblTotal
             // 
             lblTotal.AutoSize = true;
-            lblTotal.Location = new Point(233, 373);
+            lblTotal.Location = new Point(251, 373);
             lblTotal.Name = "lblTotal";
-            lblTotal.Size = new Size(42, 21);
+            lblTotal.Size = new Size(45, 21);
             lblTotal.TabIndex = 12;
-            lblTotal.Text = "Total";
+            lblTotal.Text = "Tổng";
             // 
             // txtTotal
             // 
@@ -179,7 +179,7 @@ namespace Exercise1
             // 
             btnExit.Location = new Point(141, 421);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(75, 28);
+            btnExit.Size = new Size(75, 30);
             btnExit.TabIndex = 14;
             btnExit.Text = "Thoát";
             btnExit.UseVisualStyleBackColor = true;
@@ -187,12 +187,13 @@ namespace Exercise1
             // 
             // btnCalc
             // 
+            btnCalc.BackColor = SystemColors.ActiveCaption;
             btnCalc.Location = new Point(364, 421);
             btnCalc.Name = "btnCalc";
-            btnCalc.Size = new Size(107, 28);
+            btnCalc.Size = new Size(107, 30);
             btnCalc.TabIndex = 15;
             btnCalc.Text = "Tính tiền";
-            btnCalc.UseVisualStyleBackColor = true;
+            btnCalc.UseVisualStyleBackColor = false;
             btnCalc.Click += btnCalc_Click;
             // 
             // Form1

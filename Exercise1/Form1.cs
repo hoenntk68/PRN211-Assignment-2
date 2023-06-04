@@ -1,4 +1,4 @@
-namespace Exercise1
+﻿namespace Exercise1
 {
     public partial class Form1 : Form
     {
@@ -46,7 +46,7 @@ namespace Exercise1
             }
             else
             {
-                MessageBox.Show("Please enter customer name.");
+                MessageBox.Show("Vui lòng nhập tên khách hàng.");
             }
 
         }

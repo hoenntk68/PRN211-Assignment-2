@@ -71,12 +71,13 @@
             // 
             // btnViewLunar
             // 
+            btnViewLunar.BackColor = SystemColors.ActiveCaption;
             btnViewLunar.Location = new Point(277, 301);
             btnViewLunar.Name = "btnViewLunar";
             btnViewLunar.Size = new Size(75, 32);
             btnViewLunar.TabIndex = 4;
-            btnViewLunar.Text = "View";
-            btnViewLunar.UseVisualStyleBackColor = true;
+            btnViewLunar.Text = "Xem";
+            btnViewLunar.UseVisualStyleBackColor = false;
             btnViewLunar.Click += btnViewLunar_Click;
             // 
             // btnExitLunar
@@ -85,7 +86,7 @@
             btnExitLunar.Name = "btnExitLunar";
             btnExitLunar.Size = new Size(75, 32);
             btnExitLunar.TabIndex = 5;
-            btnExitLunar.Text = "Exit";
+            btnExitLunar.Text = "Thoát";
             btnExitLunar.UseVisualStyleBackColor = true;
             btnExitLunar.Click += btnExitLunar_Click;
             // 

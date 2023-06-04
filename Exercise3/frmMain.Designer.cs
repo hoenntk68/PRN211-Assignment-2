@@ -182,9 +182,9 @@
             btnLunar.ForeColor = SystemColors.ButtonHighlight;
             btnLunar.Location = new Point(116, 379);
             btnLunar.Name = "btnLunar";
-            btnLunar.Size = new Size(75, 32);
+            btnLunar.Size = new Size(127, 32);
             btnLunar.TabIndex = 11;
-            btnLunar.Text = "Lunar";
+            btnLunar.Text = "Xem lịch âm";
             btnLunar.UseVisualStyleBackColor = false;
             btnLunar.Click += btnLunar_Click;
             // 
