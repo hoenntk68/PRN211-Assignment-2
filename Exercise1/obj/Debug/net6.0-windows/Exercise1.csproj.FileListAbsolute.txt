@@ -1,0 +1,17 @@
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\bin\Debug\net6.0-windows\Exercise1.exe
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\bin\Debug\net6.0-windows\Exercise1.deps.json
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\bin\Debug\net6.0-windows\Exercise1.runtimeconfig.json
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\bin\Debug\net6.0-windows\Exercise1.dll
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\bin\Debug\net6.0-windows\Exercise1.pdb
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.csproj.AssemblyReference.cache
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.Form1.resources
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.csproj.GenerateResource.cache
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.AssemblyInfoInputs.cache
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.AssemblyInfo.cs
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.csproj.CoreCompileInputs.cache
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.dll
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\refint\Exercise1.dll
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.pdb
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\Exercise1.genruntimeconfig.cache
+D:\FPT\Term 5 SU23\PRN211\Projects\Assignment2_SE1713\Exercise1\obj\Debug\net6.0-windows\ref\Exercise1.dll

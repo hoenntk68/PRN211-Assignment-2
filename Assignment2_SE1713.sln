@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise1", "Exercise1\Exercise1.csproj", "{E6607FC8-8B28-46B7-9BB1-2A45E84C0181}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise2", "Exercise2\Exercise2.csproj", "{B4490ED9-DF2D-4FF3-AB0F-8A6A2A0034AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercise3", "Exercise3\Exercise3.csproj", "{92E69244-4D48-47CB-9880-46AD82DA9CF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6607FC8-8B28-46B7-9BB1-2A45E84C0181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6607FC8-8B28-46B7-9BB1-2A45E84C0181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6607FC8-8B28-46B7-9BB1-2A45E84C0181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6607FC8-8B28-46B7-9BB1-2A45E84C0181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4490ED9-DF2D-4FF3-AB0F-8A6A2A0034AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4490ED9-DF2D-4FF3-AB0F-8A6A2A0034AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4490ED9-DF2D-4FF3-AB0F-8A6A2A0034AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4490ED9-DF2D-4FF3-AB0F-8A6A2A0034AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92E69244-4D48-47CB-9880-46AD82DA9CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E69244-4D48-47CB-9880-46AD82DA9CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E69244-4D48-47CB-9880-46AD82DA9CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E69244-4D48-47CB-9880-46AD82DA9CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F9F2342-E3A5-4DAC-96B7-EFFCE463C719}
+	EndGlobalSection
+EndGlobal
